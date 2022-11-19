@@ -42,6 +42,7 @@
 		</div>
 	</div>
 </div>
+
 <div class="step-content current" data-step="1">
 	<div class="fields">
 		<p>Quand quelque chose m'arrive ,j'identifie clairement l'émotion que j'éprouve:
