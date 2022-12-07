@@ -209,9 +209,8 @@
 
     
 
-
 	<div class="buttons">
-		<a href="résultatun.php" class="btn" data-set-step="">Suivant</a>
+		<a href="resultatun.php" class="btn" data-set-step="">Résultat</a>
 	</div>
 </div>
 <script src="assets/js/main.js"></script>

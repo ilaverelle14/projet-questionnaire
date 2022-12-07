@@ -99,33 +99,3 @@
       .d-flex {
       height: 20%;
       }
-      .form-container {
-         margin-right: 30%;
-         margin-left: 30%;
-
-      }
-      .form-group{
-        margin-right: 30%;
-        margin-left: 30%;
-      }
-      .form-check{
-        margin-right: 30%;
-        margin-left: 30%;
-      }
-
-      .submit{
-        text-align: center;
-      }
-      .prenom-form-group{
-        margin-right: 30%;
-        margin-left: 30%;
-      }
-      .nom-form-group{
-        margin-right: 30%;
-        margin-left: 30%;
-      }
-      .btn-primary{
-        margin-right: 30%;
-        margin-left: 30%;
-      }
-      

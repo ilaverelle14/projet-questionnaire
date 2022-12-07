@@ -14,16 +14,15 @@
 <!-- AVEC SOI-->
 <div class="step-content current" data-step="1">
 	<div class="fields">
-		<p>Je suis optimiste et je positive ,quoi qu'il m'arrive.
-		</p>
+		<p>Je suis optimiste et je positive ,quoi qu'il m'arrive.</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-1" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-1" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-1" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-1" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -39,13 +38,13 @@
 		<p>Devant mes erreurs ,je suis capable de relativiser et d'en tirer la leçon .
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-2" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-2" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-2" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-2" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -61,13 +60,13 @@
 		<p>Quand j'ai réussi quelque chose,je suis capable de me féliciter .
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-3" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-3" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-3" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-3" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -84,13 +83,13 @@
 			un plaisir
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-4" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-4" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-4" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-4" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -109,13 +108,13 @@
 			je les félicite.
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-5" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-5" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-5" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-5" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -132,13 +131,13 @@
 
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-6" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-6" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-6" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-6" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -154,13 +153,13 @@
 		<p>J'écoute les autres avec empathie.
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-7" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-7" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-7" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-7" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -178,13 +177,13 @@
 			
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-8" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-8" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-8" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-8" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -199,6 +198,6 @@
 	
 
 	<div class="buttons">
-		<a href="resultatsix.php" class="btn" data-set-step="2">Suivant</a>
+		<a href="resultatsix.php" class="btn" data-set-step="2">Résultat</a>
 	</div>
 </div>

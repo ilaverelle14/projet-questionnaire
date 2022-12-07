@@ -17,13 +17,13 @@
 		<p>Face à quelqu'un qui  m'agresse ,je cherche à comprendre ce qui se passe
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-1" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-1" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-1" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-1" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -39,13 +39,13 @@
 		<p>Quand les choses ne vont pas pas  bien,je suis capable de supporter la frustration
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-2" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-2" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-2" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-2" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -61,13 +61,13 @@
 		<p>Dans les situations à haut risque émotionnel,je sais que je vais pouvoir me contrôler
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-3" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-3" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-3" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-3" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -83,13 +83,13 @@
 		<p>Lorsque quelqu'un me pousse  à réagir, je suis capable de garder mon calme.
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-4" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-4" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-4" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-4" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -107,13 +107,13 @@
 		<p>Dans mes relations personnelles et professionnelles, je m'adapte facilement aux émotions des autres.
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-5" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-5" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-5" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-5" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -130,13 +130,13 @@
 			gérer la situation.
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-6" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-6" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-6" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-6" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -152,13 +152,13 @@
 		<p>Face à une émotion forte d'autrui,je garde mon calme et je contrôle la situation.
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-7" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-7" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-7" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-7" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -176,13 +176,13 @@
 			
 		</p>
 		<div class="rating">
-			<input type="radio" name="rating" id="radio0" value="Jamais vrai">
+			<input type="radio" name="rating-8" id="radio0" value="Jamais vrai">
 			<label for="radio0">0</label>
-			<input type="radio" name="rating" id="radio1" value="Parfois vrai">
+			<input type="radio" name="rating-8" id="radio1" value="Parfois vrai">
 			<label for="radio1">1</label>
-			<input type="radio" name="rating" id="radio2" value="Souvent vrai">
+			<input type="radio" name="rating-8" id="radio2" value="Souvent vrai">
 			<label for="radio2">2</label>
-			<input type="radio" name="rating" id="radio3" value="Toujours vrai">
+			<input type="radio" name="rating-8" id="radio3" value="Toujours vrai">
 			<label for="radio3">3</label>
 		</div>
 		<div class="rating-footer">
@@ -197,6 +197,6 @@
 	
 
 	<div class="buttons">
-		<a href="resultatquatre.php" class="btn" data-set-step="2">Suivant</a>
+		<a href="resultatquatre.php" class="btn" data-set-step="2">Résultat</a>
 	</div>
 </div>
