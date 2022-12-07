@@ -195,7 +195,7 @@
         </div>
         <div class="col-md-5 order-md-1">
           <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="300"
-            height="300" src="assets/images/woman4.jpg" role="img" aria-label="Placeholder: 500x500"
+            height="300" src="assets\images\extrawoman.jpg" role="img" aria-label="Placeholder: 500x500"
             preserveAspectRatio="xMidYMid slice" focusable="false">
           <title>Placeholder</title>
           <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em"></text></img>

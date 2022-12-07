@@ -51,6 +51,7 @@
 					<input type="radio" name="rating-1" id="radio3" value="Toujours vrai">
 					<label for="radio3">3</label>
 				</div>
+				
 				<div class="rating-footer">
 					<span>Jamais vrai</span>
 					<span>Parfois vrai</span>
