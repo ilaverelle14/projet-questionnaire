@@ -1,7 +1,16 @@
-<script>
-    import { goto } from "$app/navigation";
-
-	
+<script lang="ts">
+	import { goto } from '$app/navigation';
+	import { applyAction, enhance, type SubmitFunction } from '$app/forms';
+	import type { ActionData } from './$types';
+	export let form: ActionData;
+	let loading = false;
+	const handleSubmit: SubmitFunction = () => {
+		loading = true;
+		return async ({ result }) => {
+			await applyAction(result);
+			loading = false;
+		};
+	};
 </script>
 
 <svelte:head>
@@ -9,23 +18,14 @@
 
 <h2> Sign in</h2>
 <div class="container">
-	<div class="form-container sign-up-container">
-		<form action="#">
-			<h1>Create Account</h1>
-			<div class="social-container">
-				<a href="/" class="social"><i class="fab fa-facebook-f"></i></a>
-				<a href="/" class="social"><i class="fab fa-google-plus-g"></i></a>
-				<a href="/" class="social"><i class="fab fa-linkedin-in"></i></a>
-			</div>
-			<span>or use your email for registration</span>
-			<input type="text" placeholder="Name" />
-			<input type="email" placeholder="Email" />
-			<input type="password" placeholder="Password" />
-			<button>Sign Up</button>
-		</form>
-	</div>
 	<div class="form-container sign-in-container">
-		<form action="#">
+		{#if form?.error}
+			<div class="block notification is-danger">{form.error}</div>
+		{/if}
+		{#if form?.message}
+			<div class="block notification is-primary">{form.message}</div>
+		{/if}
+		<form method="POST" use:enhance={handleSubmit}>
 			<h1>Sign in</h1>
 			<div class="social-container">
 				<a href="/" class="social"><i class="fab fa-facebook-f"></i></a>
@@ -33,8 +33,8 @@
 				<a href="/" class="social"><i class="fab fa-linkedin-in"></i></a>
 			</div>
 			<span>or use your account</span>
-			<input type="email" placeholder="Email" />
-			<input type="password" placeholder="Password" />
+			<input type="email" placeholder="Email" name="email" value={form?.values?.email ?? ''} required />
+			<input type="password" placeholder="Password" name="password" required />
 			<a href="/">Forgot your password?</a>
 			<button>Sign In</button>
 		</form>

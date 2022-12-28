@@ -29,7 +29,7 @@ export const actions: Actions = {
 			});
 		}
 
-		const { error } = await supabaseClient.auth.signUp({
+		const { error } = await supabaseClient.auth.signInWithPassword({
 			email,
 			password,
 			// options: { emailRedirectTo: url.origin }
@@ -53,7 +53,7 @@ export const actions: Actions = {
 		}
 
 		return {
-			message: 'Please check your email for a magic link to log into the website.'
+			message: 'Login succes!'
 		};
 	}
 };
